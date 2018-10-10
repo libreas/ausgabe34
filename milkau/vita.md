@@ -1,0 +1,2 @@
+---
+**Fritz Milkau**, Bibliothek in Königberg, Bonn und Berlin, später Bibliotheksdirektor Universitätsbibliothek Greifswald und Universitätsbibliothek Breslau, Generaldirektor der Preußischen Staatsbibliothek zu Berlin, ab 1928 Honorarprofessor Bibliothekswissenschaft (Friedrichs-Wilhelm-Universität Berlin), erster Direktor des Instituts für Bibliothekswissenschaft an dieser Universität. († 1934)

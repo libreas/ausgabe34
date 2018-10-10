@@ -1,0 +1,2 @@
+---
+**Dr. Georg Leidinger**, Leiter der Handschriftenabteilung der Bayerischen Staatsbibliothek, später stellvertretender Generaldirektor derselben Bibliothek. Ab 1922 Honorarprofessor für Bibliothekswissenschaften (Universität Müchen). († 1945)
