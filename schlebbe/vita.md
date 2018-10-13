@@ -1,0 +1,2 @@
+---
+**Kirsten Schlebbe** ist wissenschaftliche Mitarbeiterin und Dozentin am Institut für Bibliotheks- und Informationswissenschaft an der Humboldt-Universität zu Berlin. Sie hat 2015 ihr Masterstudium am Institut abgeschlossen. 2016 begann sie ihre Promotion zum digitalen Informationsverhalten von Klein- und Vorschulkindern bei Prof. Dr. Elke Greifeneder. Seit 2016 betreut sie das Berliner Bibliothekswissenschaftliche Kolloquium.
