@@ -1,0 +1,6 @@
+---
+**Dr. Petra Hauke** ist seit 2002 Lehrbeauftragte am Institut für Bibliotheks- und Informationswissenschaft der Humboldt-Universität zu Berlin (Formalerschließung, Publikationswesen, Auslandsexkursionen). Ihre Themenschwerpunkte sind Publikationswesen und "Green Library". Von 2005 bis 2017 war sie Standing-Committee-Mitglied in den IFLA-Sektionen "Education and Training" beziehungsweise "Library Theory and Research” und seit 2010 aktiv bei ENSULIB (IFLA Environment, Sustainability and Libraries Special Interest Group). Sie ist auch eines der Gründungsmitglieder des "Netzwerks Grüne Bibliothek – Interessengemeinschaft für ökologische Nachhaltigkeit".
+
+**Martine Weil** studiert Bibliotheks- und Informationswissenschaft an der Humboldt-Universität zu Berlin. 
+
+**Dr. Erika Werner** ist Altphilologin und macht zurzeit ein Zweitstudium der Bibliotheks- und Informationswissenschaft an der Humboldt-Universität zu Berlin. Die beiden haben das Projektseminar "Von der Idee zum Buch – Durchführung eines Publikationsprojektes" im Wintersemester 2017/2018 absolviert.
