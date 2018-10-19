@@ -393,7 +393,7 @@ Anderl, Sybille: Trend zum Kollektiv: Die Forschung der vielen, in:
 
 [^3]: Eine tabellarische Übersicht der BBK-Termine sowie weitere
     Statistiken sind als (Roh-)Datendokumente im XLSX-Format dem Artikel
-    als Supplement beigefügt.
+    als Supplement beigefügt, vgl. [http://libreas.eu/ausgabe34/schlebbe/data](http://libreas.eu/ausgabe34/schlebbe/data).
 
 [^4]: Nicht vollständig ausgeschlossen werden kann, dass Personen durch
     eine Namensänderung nach einer Eheschließung bei der Analyse als
