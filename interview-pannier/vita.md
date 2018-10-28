@@ -1,4 +1,7 @@
 ---
+**Dr. Gertrud Pannier** war bis 2015 langjährig akademische Mitarbeiterin am Institut für Biblioths- und Informationswissenschaft und seiner Vorgängerinstitutionen. Ihr Lehr und Forschungsinteresse galt insbesondere der Bibliographie.
+
+
 **Thomas Roesnick** studiert aktuell im sechsten Bachelorsemester „Bibliotheks- und Informationswissenschaft“ am Institut. Momentan schreibt er an seiner Bachelorarbeit und würde danach gerne an der Humboldt-Universität den Master in „Deutsche Literatur“ belegen.  
 
 **Miriam Brauer** studiert aktuell im vierten Bachelorsemester Bibliotheks- und

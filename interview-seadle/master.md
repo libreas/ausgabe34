@@ -1,6 +1,3 @@
-**[Interview mit Michael Seadle, geführt von Thomas Roesnick
-(13.07.2018)]{.underline}**
-
 **TR: Vielen Dank Herr Seadle, dass Sie sich eingefunden haben, um mit
 mir ein Interview für das Projektseminar 90 Jahre IBI zu führen. Sie
 sind in Detroit geboren und haben dann verschiedene Stationen im
