@@ -1,0 +1,12 @@
+---
+**Andreas Heinrich**, wissenschaftlicher Bibliothekar, ist Mitarbeiter im 
+DFG-Verbundprojekt GenderOpen -- Fachrepositorium für die 
+Geschlechterforschung am Margherita-von-Brentano-Zentrum an der Freien 
+Universität Berlin.
+
+**Anita Runge**, Dr. phil., ist Geschäftsführerin
+ des Margherita-von-Brentano-Zentrums an der Freien Universität Berlin 
+und seit vielen Jahren in der Publikationsförderung aktiv. Sie ist Teil 
+der kooperativen Leitung des DFG-Projekts GenderOpen – Fachrepositorium
+ für die Geschlechterforschung und leitet das BMBF-Projekt Open Gender
+ Platform.
