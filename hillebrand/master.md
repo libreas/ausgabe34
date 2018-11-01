@@ -622,7 +622,7 @@ to Information Science, David Bawden and Lyn Robinson (Hrsg.). S.
 XXIV--XXV.
 
 Der Zugriff auf die verwendeten Online-Ressourcen wurden zuletzt am
-04.08.2018 geprüft.
+01.11.2018 geprüft.
 
 [^1]: [https://gremien.hu-berlin.de/de/amb?selectedType=Studienordnung\#B](https://gremien.hu-berlin.de/de/amb?selectedType=Studienordnung#B)
 
