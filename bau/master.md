@@ -69,7 +69,7 @@ Glas Richtung Vorlesungssaal, denn den Luxus einer
 bibliothekswissenschaftlichen Institutsbibliothek gibt es nicht mehr.
 Die Dinge, die verschwinden.
 
-![Wandbild IBI](img/wandbild-ibi.jpg)
+![Wandbild in der ehemaligen Zweigbibliothek Bibliothekswissenschaft im zweiten Obergeschoss (Foto: Ben Kaden, Juli 2018)](img/wandbild-ibi.jpg)
 
 Ist das zu bedauern? Vielleicht. Aber natürlich sind für das Institut
 für Bibliothekswissenschaft auch Dinge verschwunden. Und ebenso für das
