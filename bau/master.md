@@ -458,6 +458,5 @@ Seemann, Leipzig 1942, 455.
 [^7]: Siehe ebenda:
     [https://www.ta.hu-berlin.de/915](https://www.ta.hu-berlin.de/915)
 
-[^8]: Vgl das Interview mit Prof. Vivien Petras, PhD und Prof. Dr. Elke
-    Greifeneder\
-    geführt von Thomas Roesnick (20.06.2018) in dieser Ausgabe: [http://libreas.eu/ausgabe34/interview-roesnick/].
+[^8]: Vgl. das Interview mit Prof. Vivien Petras, PhD und Prof. Dr. Elke
+    Greifeneder geführt von Thomas Roesnick (20.06.2018) in dieser Ausgabe: [http://libreas.eu/ausgabe34/interview-roesnick/].
