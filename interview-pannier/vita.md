@@ -1,5 +1,5 @@
 ---
-**Dr. Gertrud Pannier** war bis 2015 langjährig akademische Mitarbeiterin am Institut für Biblioths- und Informationswissenschaft und seiner Vorgängerinstitutionen. Ihr Lehr und Forschungsinteresse galt insbesondere der Bibliographie.
+**Dr. Gertrud Pannier** war bis 2015 langjährig akademische Mitarbeiterin am Institut für Bibliotheks- und Informationswissenschaft (IBI) bzw. seiner Vorgängerinstitutionen. Ihr Lehr- und Forschungsinteresse galt insbesondere der Bibliographie.
 
 
 **Thomas Roesnick** studiert aktuell im sechsten Bachelorsemester „Bibliotheks- und Informationswissenschaft“ am Institut. Momentan schreibt er an seiner Bachelorarbeit und würde danach gerne an der Humboldt-Universität den Master in „Deutsche Literatur“ belegen.  
@@ -8,4 +8,4 @@
 Informationswissenschaft am Institut. Zudem ist sie als studentische Mitarbeiterin am
 Lehrstuhl für Information Processing and Analytics tätig.
 
-**Andreas Erbe** studiert derzeit im 3. Bachelorsemester Bibliotheks- und Informationswissenschaft an der Humboldt-Universität zu Berlin. Vor seinem Studium absolvierte er erfolgreich eine Ausbildung zum Fachangestellten für Medien- und Informationsdienste in der Fachrichtung Bibliothek und ist seit dem an der Staatsbibliothek zu Berlin tätig. Den damit eingeschlagenen Berufsweg möchte er auch nach seinem Studienabschluss weiter fortsetzten.
+**Andreas Erbe** studiert derzeit im 3. Bachelorsemester Bibliotheks- und Informationswissenschaft am Institut. Vor seinem Studium absolvierte er erfolgreich eine Ausbildung zum Fachangestellten für Medien- und Informationsdienste in der Fachrichtung Bibliothek und ist seit dem an der Staatsbibliothek zu Berlin tätig. Den damit eingeschlagenen Berufsweg möchte er auch nach seinem Studienabschluss weiter fortsetzten.
