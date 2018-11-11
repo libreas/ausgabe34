@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.9.3)  2 NOV 2018 06:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.9.3)  11 NOV 2018 11:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -746,21 +746,21 @@ Package csquotes Info: ... found 'babel' package.
  (./master.aux)
 \openout1 = `master.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 120.
-LaTeX Font Info:    ... okay on input line 120.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 120.
-LaTeX Font Info:    ... okay on input line 120.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 120.
-LaTeX Font Info:    ... okay on input line 120.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 120.
-LaTeX Font Info:    ... okay on input line 120.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 120.
-LaTeX Font Info:    ... okay on input line 120.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 120.
-LaTeX Font Info:    ... okay on input line 120.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 120.
-LaTeX Font Info:    ... okay on input line 120.
-LaTeX Font Info:    Try loading font information for T1+ppl on input line 120.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Try loading font information for T1+ppl on input line 112.
  (/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/t1ppl.fd
 File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
 )
@@ -837,7 +837,7 @@ File: se-pdfdoc.def 2011/12/02 v1.10 stringenc: PDFDocEncoding
 (/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/se-utf8.def
 File: se-utf8.def 2011/12/02 v1.10 stringenc: UTF-8
 )
-Package hyperref Info: Link coloring ON on input line 120.
+Package hyperref Info: Link coloring ON on input line 112.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -848,46 +848,46 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 \c@section@level=\count187
 LaTeX Info: Redefining \Ref on input line 513.
 )
-LaTeX Info: Redefining \ref on input line 120.
-LaTeX Info: Redefining \pageref on input line 120.
-LaTeX Info: Redefining \nameref on input line 120.
+LaTeX Info: Redefining \ref on input line 112.
+LaTeX Info: Redefining \pageref on input line 112.
+LaTeX Info: Redefining \nameref on input line 112.
 
 (./master.out) (./master.out)
 \@outlinefile=\write4
 \openout4 = `master.out'.
 
-LaTeX Info: Redefining \Ref on input line 120.
-LaTeX Font Info:    Try loading font information for T1+cmss on input line 123.
+LaTeX Info: Redefining \Ref on input line 112.
+LaTeX Font Info:    Try loading font information for T1+cmss on input line 115.
 
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/base/t1cmss.fd
 File: t1cmss.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    Try loading font information for OT1+ppl on input line 123.
+LaTeX Font Info:    Try loading font information for OT1+ppl on input line 115.
 
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/ot1ppl.fd
 File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
 )
-LaTeX Font Info:    Try loading font information for OML+zplm on input line 123
+LaTeX Font Info:    Try loading font information for OML+zplm on input line 115
 .
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/omlzplm.fd
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMS+zplm on input line 123
+LaTeX Font Info:    Try loading font information for OMS+zplm on input line 115
 .
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/omszplm.fd
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMX+zplm on input line 123
+LaTeX Font Info:    Try loading font information for OMX+zplm on input line 115
 .
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/omxzplm.fd
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
-LaTeX Font Info:    Try loading font information for OT1+zplm on input line 123
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 115
 .
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/ot1zplm.fd
@@ -896,16 +896,11 @@ File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 <img/Abb1.jpg, id=34, 516.0078pt x 325.6968pt>
 File: img/Abb1.jpg Graphic file (type jpg)
  <use img/Abb1.jpg>
-Package pdftex.def Info: img/Abb1.jpg used on input line 170.
+Package pdftex.def Info: img/Abb1.jpg used on input line 162.
 (pdftex.def)             Requested size: 284.52756pt x 179.591pt.
 
-Overfull \hbox (10.51318pt too wide) in paragraph at lines 175--196
-\T1/ppl/m/n/10.95 vi-en Pe-tras, PhD, die 2014 die Tenure auf ih-re Ju-nior-pro
--fes-so-ren-stel-le be-kom-men hat-te, Prof. Dr. El-
- []
 
-
-Package hyperref Warning: Suppressing empty link on input line 196.
+Package hyperref Warning: Suppressing empty link on input line 188.
 
 
 Package Fancyhdr Warning: \headheight is too small (17.0pt): 
@@ -914,15 +909,15 @@ Package Fancyhdr Warning: \headheight is too small (17.0pt):
  This may cause the page layout to be inconsistent, however.
 
 LaTeX Font Info:    Font shape `U/ccicons/m/n' will be
-(Font)              scaled to size 10.95pt on input line 196.
+(Font)              scaled to size 10.95pt on input line 188.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 196.
+(babel)             in language  on input line 188.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 196.
+(babel)             in language  on input line 188.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 196.
+(babel)             in language  on input line 188.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 196.
+(babel)             in language  on input line 188.
 [1{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
@@ -930,12 +925,12 @@ Package babel Info: Redefining ngerman shorthand "~
 
 ]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 215.
+(babel)             in language  on input line 207.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 215.
+(babel)             in language  on input line 207.
 
 
-Package hyperref Warning: Suppressing empty link on input line 230.
+Package hyperref Warning: Suppressing empty link on input line 222.
 
 
 Package Fancyhdr Warning: \headheight is too small (17.0pt): 
@@ -944,16 +939,16 @@ Package Fancyhdr Warning: \headheight is too small (17.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 230.
+(babel)             in language  on input line 222.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 230.
+(babel)             in language  on input line 222.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 230.
+(babel)             in language  on input line 222.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 230.
+(babel)             in language  on input line 222.
 [2 <./img/Abb1.jpg>]
 
-Package hyperref Warning: Suppressing empty link on input line 277.
+Package hyperref Warning: Suppressing empty link on input line 269.
 
 
 Package Fancyhdr Warning: \headheight is too small (17.0pt): 
@@ -962,21 +957,21 @@ Package Fancyhdr Warning: \headheight is too small (17.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 277.
+(babel)             in language  on input line 269.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 277.
+(babel)             in language  on input line 269.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 277.
+(babel)             in language  on input line 269.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 277.
+(babel)             in language  on input line 269.
 [3]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 280.
+(babel)             in language  on input line 272.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 280.
+(babel)             in language  on input line 272.
 
 
-Package hyperref Warning: Suppressing empty link on input line 312.
+Package hyperref Warning: Suppressing empty link on input line 304.
 
 
 Package Fancyhdr Warning: \headheight is too small (17.0pt): 
@@ -985,21 +980,21 @@ Package Fancyhdr Warning: \headheight is too small (17.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 312.
+(babel)             in language  on input line 304.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 312.
+(babel)             in language  on input line 304.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 312.
+(babel)             in language  on input line 304.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 312.
+(babel)             in language  on input line 304.
 [4]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 342.
+(babel)             in language  on input line 334.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 342.
+(babel)             in language  on input line 334.
 
 
-Package hyperref Warning: Suppressing empty link on input line 379.
+Package hyperref Warning: Suppressing empty link on input line 371.
 
 
 Package Fancyhdr Warning: \headheight is too small (17.0pt): 
@@ -1008,23 +1003,23 @@ Package Fancyhdr Warning: \headheight is too small (17.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 379.
+(babel)             in language  on input line 371.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 379.
+(babel)             in language  on input line 371.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 379.
+(babel)             in language  on input line 371.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 379.
+(babel)             in language  on input line 371.
 [5]
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 403.
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 395.
 
-Underfull \hbox (badness 1688) in paragraph at lines 407--407
+Underfull \hbox (badness 1688) in paragraph at lines 399--399
 []|\T1/ppl/m/n/10.95 Angabe ^^R  in Be-rüh-
  []
 
 
-Package hyperref Warning: Suppressing empty link on input line 429.
+Package hyperref Warning: Suppressing empty link on input line 421.
 
 
 Package Fancyhdr Warning: \headheight is too small (17.0pt): 
@@ -1033,20 +1028,20 @@ Package Fancyhdr Warning: \headheight is too small (17.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 429.
+(babel)             in language  on input line 421.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 429.
+(babel)             in language  on input line 421.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 429.
+(babel)             in language  on input line 421.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 429.
+(babel)             in language  on input line 421.
 [6]
-Underfull \hbox (badness 1688) in paragraph at lines 435--435
+Underfull \hbox (badness 1688) in paragraph at lines 427--427
 []|\T1/ppl/m/n/10.95 Angabe ^^R  in Be-rüh-
  []
 
 
-Package hyperref Warning: Suppressing empty link on input line 497.
+Package hyperref Warning: Suppressing empty link on input line 489.
 
 
 Package Fancyhdr Warning: \headheight is too small (17.0pt): 
@@ -1055,16 +1050,16 @@ Package Fancyhdr Warning: \headheight is too small (17.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 497.
+(babel)             in language  on input line 489.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 497.
+(babel)             in language  on input line 489.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 497.
+(babel)             in language  on input line 489.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 497.
+(babel)             in language  on input line 489.
 [7]
 
-Package hyperref Warning: Suppressing empty link on input line 564.
+Package hyperref Warning: Suppressing empty link on input line 556.
 
 
 Package Fancyhdr Warning: \headheight is too small (17.0pt): 
@@ -1073,40 +1068,40 @@ Package Fancyhdr Warning: \headheight is too small (17.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 564.
+(babel)             in language  on input line 556.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 564.
+(babel)             in language  on input line 556.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 564.
+(babel)             in language  on input line 556.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 564.
+(babel)             in language  on input line 556.
 [8]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 572.
+(babel)             in language  on input line 563.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 572.
+(babel)             in language  on input line 563.
 
-Overfull \hbox (6.30908pt too wide) in alignment at lines 578--582
+Overfull \hbox (6.30908pt too wide) in alignment at lines 569--573
  [] [] 
  []
 
 
-Underfull \hbox (badness 4995) in paragraph at lines 589--589
+Underfull \hbox (badness 4995) in paragraph at lines 580--580
 []|\T1/ppl/m/n/10.95 BP3: In-for-ma-ti-ons-pro-duk-ti-on und -manage-
  []
 
 
-Underfull \hbox (badness 2582) in paragraph at lines 591--591
+Underfull \hbox (badness 2582) in paragraph at lines 582--582
 []|\T1/ppl/m/n/10.95 BP4: In-for-ma-ti-ons-auf-be-rei-tung und -organi-
  []
 
 
-Overfull \hbox (6.30908pt too wide) in alignment at lines 582--598
+Overfull \hbox (6.30908pt too wide) in alignment at lines 573--589
  [] [] 
  []
 
 
-Package hyperref Warning: Suppressing empty link on input line 605.
+Package hyperref Warning: Suppressing empty link on input line 596.
 
 
 Package Fancyhdr Warning: \headheight is too small (17.0pt): 
@@ -1115,25 +1110,25 @@ Package Fancyhdr Warning: \headheight is too small (17.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 605.
+(babel)             in language  on input line 596.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 605.
+(babel)             in language  on input line 596.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 605.
+(babel)             in language  on input line 596.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 605.
+(babel)             in language  on input line 596.
 [9]
-Overfull \hbox (6.30908pt too wide) in alignment at lines 606--610
+Overfull \hbox (6.30908pt too wide) in alignment at lines 597--601
  [] [] 
  []
 
 
-Overfull \hbox (6.30908pt too wide) in alignment at lines 610--629
+Overfull \hbox (6.30908pt too wide) in alignment at lines 601--620
  [] [] 
  []
 
 
-Package hyperref Warning: Suppressing empty link on input line 673.
+Package hyperref Warning: Suppressing empty link on input line 664.
 
 
 Package Fancyhdr Warning: \headheight is too small (17.0pt): 
@@ -1142,21 +1137,21 @@ Package Fancyhdr Warning: \headheight is too small (17.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 673.
+(babel)             in language  on input line 664.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 673.
+(babel)             in language  on input line 664.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 673.
+(babel)             in language  on input line 664.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 673.
+(babel)             in language  on input line 664.
 [10]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 676.
+(babel)             in language  on input line 667.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 676.
+(babel)             in language  on input line 667.
 
 
-Package hyperref Warning: Suppressing empty link on input line 749.
+Package hyperref Warning: Suppressing empty link on input line 740.
 
 
 Package Fancyhdr Warning: \headheight is too small (17.0pt): 
@@ -1165,21 +1160,21 @@ Package Fancyhdr Warning: \headheight is too small (17.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 749.
+(babel)             in language  on input line 740.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 749.
+(babel)             in language  on input line 740.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 749.
+(babel)             in language  on input line 740.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 749.
+(babel)             in language  on input line 740.
 [11]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 767.
+(babel)             in language  on input line 758.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 767.
+(babel)             in language  on input line 758.
 
 
-Package hyperref Warning: Suppressing empty link on input line 807.
+Package hyperref Warning: Suppressing empty link on input line 798.
 
 
 Package Fancyhdr Warning: \headheight is too small (17.0pt): 
@@ -1188,22 +1183,27 @@ Package Fancyhdr Warning: \headheight is too small (17.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 807.
+(babel)             in language  on input line 798.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 807.
+(babel)             in language  on input line 798.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 807.
+(babel)             in language  on input line 798.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 807.
+(babel)             in language  on input line 798.
 [12]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 811.
+(babel)             in language  on input line 802.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 811.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 858.
+(babel)             in language  on input line 802.
 
+Overfull \hbox (14.72672pt too wide) in paragraph at lines 813--817
+\T1/ppl/m/n/10.95 URL: [][]$http : / / www . faz . net / aktuell / beruf -[] ch
+ance / campus / massenuni -[] gut -[] studieren -[] trotz -[] mieser -[]
+ []
 
-Package hyperref Warning: Suppressing empty link on input line 858.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 849.
+
+Package hyperref Warning: Suppressing empty link on input line 849.
 
 
 Package Fancyhdr Warning: \headheight is too small (17.0pt): 
@@ -1212,16 +1212,16 @@ Package Fancyhdr Warning: \headheight is too small (17.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 858.
+(babel)             in language  on input line 849.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 858.
+(babel)             in language  on input line 849.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 858.
+(babel)             in language  on input line 849.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 858.
+(babel)             in language  on input line 849.
 [13]
 
-Package hyperref Warning: Suppressing empty link on input line 858.
+Package hyperref Warning: Suppressing empty link on input line 849.
 
 
 Package Fancyhdr Warning: \headheight is too small (17.0pt): 
@@ -1230,26 +1230,26 @@ Package Fancyhdr Warning: \headheight is too small (17.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 858.
+(babel)             in language  on input line 849.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 858.
+(babel)             in language  on input line 849.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 858.
+(babel)             in language  on input line 849.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 858.
+(babel)             in language  on input line 849.
 Package atenddvi Info: Last page = 14.
 [14]
-Package atveryend Info: Executing hook `AfterLastShipout' on input line 858.
+Package atveryend Info: Executing hook `AfterLastShipout' on input line 849.
  (./master.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 858.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 858.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 849.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 849.
 Package rerunfilecheck Info: File `master.out' has not changed.
 (rerunfilecheck)             Checksum: 28DE3CFDD882DD05FB18D133766DAA3B;440.
  ) 
 Here is how much of TeX's memory you used:
  15158 strings out of 493117
  223895 string characters out of 6135434
- 410090 words of memory out of 5000000
+ 409019 words of memory out of 5000000
  18262 multiletter control sequences out of 15000+600000
  36394 words of font info for 79 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1263,10 +1263,10 @@ live/2014/texmf-dist/fonts/type1/public/ccicons/ccicons.pfb></usr/local/texlive
 texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2014/texmf-d
 ist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2014/texmf-dist/fon
 ts/type1/urw/palatino/uplri8a.pfb>
-Output written on master.pdf (14 pages, 450384 bytes).
+Output written on master.pdf (14 pages, 449065 bytes).
 PDF statistics:
- 229 PDF objects out of 1000 (max. 8388607)
- 201 compressed objects within 3 object streams
+ 184 PDF objects out of 1000 (max. 8388607)
+ 157 compressed objects within 2 object streams
  38 named destinations out of 1000 (max. 500000)
  66 words of extra memory for PDF output out of 10000 (max. 10000000)
 
